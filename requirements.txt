@@ -23,8 +23,6 @@ librosa
 
 pydub==0.25.1
 pyaudio==0.2.14
-wave
-audioop
 
 
 pyaudio==0.2.13
