@@ -20,7 +20,6 @@ app.add_middleware(
 
 # ---- Include routers ----
 app.include_router(websocket_router)
-# app.include_router(ws_router)
 
 @app.get("/")
 def home():
