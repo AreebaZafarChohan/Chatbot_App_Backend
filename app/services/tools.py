@@ -17,8 +17,6 @@ import random
 from agents import function_tool
 from app.db.connection import SessionLocal
 from app.models.order import Order
-from app.models.memory import MemoryFact
-from datetime import datetime
 import random
 
 
